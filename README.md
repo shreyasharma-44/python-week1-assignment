@@ -49,8 +49,7 @@ python_assignment/
 3. View your personalized bio-data profile
 
 ## Visual Documentation
-![Program Output](screenshot.png)
-*Screenshot showing the program running with sample input*
+![Program Output] (https://github.com/shreyasharma-44/python-week1-assignment/blob/main/screenshort.png?raw=true)
 
 ## Technical Details
 - **Programming Language:** Python 3
