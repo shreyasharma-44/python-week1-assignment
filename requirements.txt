@@ -1,0 +1,7 @@
+# Week 1 Python Assignment - Requirements
+
+# This program uses only built-in Python libraries
+# No external installation required
+
+# Python Version Requirement:
+python >= 3.6
